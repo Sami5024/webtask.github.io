@@ -1,0 +1,380 @@
+body {
+    background-color: rgb(0, 0, 34);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    position: absolute;
+    margin-left: -930px;
+    width: 150px;
+    height: 134px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 135px;
+    background-color: rgb(11, 11, 61);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 23px;
+    list-style: none;
+}
+
+nav ul li a {
+    font-style:italic;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: rgb(132, 132, 190);
+    font-size: 1.5rem;
+}
+.design{
+    border-top-right-radius: 50px ;
+    border-bottom-left-radius: 50px ;
+    
+    width: 40px;
+    height: 30px;
+    background-color: rgb(22, 137, 190);
+    position: absolute;
+}
+.designnew{
+    border-top-right-radius: 50px ;
+    border-bottom-left-radius: 50px ;
+    margin-left: 1300px;
+    margin-top: 100px;
+    width: 40px;
+    height: 30px;
+    background-color: rgb(22, 137, 190);
+    position: absolute;   
+}
+
+.design1{
+    border-top-right-radius: 50px ;
+    border-bottom-left-radius: 50px ;
+    margin-top: 100px;
+    width: 40px;
+    height: 30px;
+    background-color: rgb(22, 137, 190);
+    position: absolute;   
+}
+.line1{
+    margin-top: 100px;
+    width: 90px;
+    height: 30px;
+    background-color: rgb(129, 31, 85);
+    position: absolute;   
+}
+.left {
+    font-size: 1.7rem;
+    margin-left: 200px;
+}
+.margin{
+    position: absolute;
+    background-color: #ffffff;
+    width: 90%;
+    height: 1px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+
+
+
+
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.firstSection>div {
+    width: 30%;
+}
+
+.leftSection {
+    font-size: 3rem;
+    margin: 30px 0;
+
+}
+.bttn{
+    background-color:rgb(13, 13, 44);
+    color: aliceblue;
+    padding: 13px;
+}
+
+.rightSection img {
+    width: 80%;
+    border-radius: 10%;
+    height: 400px;
+    margin-top: -10px;
+}
+
+.purple {
+    color: aqua;
+}
+
+#element {
+    color: aqua;
+}
+
+.secondsection {
+    max-width: 80vw;
+    margin: auto;
+}
+
+
+.margin1{
+    
+    background-color: #ffffff;
+    width: 98%;
+    height: 1px;
+    margin-top: 60px;
+    
+}
+
+.coluum{
+     background-color: rgb(255, 255, 255);
+     margin-left: 80px;
+     width: 1px;
+     height: 220px;
+     
+}
+
+.coluum1{
+    background-color: rgb(255, 255, 255);
+    margin-left: 545px;
+    margin-top: -220px;
+    width: 1px;
+    height: 220px;
+    
+}
+
+    
+
+.coluum3{
+    background-color: rgb(255, 255, 255);
+    margin-left: 1025px;
+    margin-top: -220px;
+    width: 1px;
+    height: 220px;
+}
+.acadmi{
+    margin-top: 230px;
+   position: absolute;
+   margin-left: -50px;
+   text-align: center;
+}
+.acadmi1{
+    position: absolute;
+    margin-top: 300px;
+    width: 400px;
+    margin-left: -100px;
+    text-align: center;
+    font-size: medium;
+}
+.eleme11{
+    color: #ffffff;
+    position: absolute;
+    margin-top: 270px;
+    width: 400px;
+    margin-left: -100px;
+    text-align: center;
+    font-size: medium;
+}
+.exp{
+    position: absolute;
+    margin-top: -20px;
+}
+.exp1{
+    margin-top: 110px;
+    font-size: 30px;
+}
+.acadmi7{
+    position: absolute;
+    margin-top: 230px;
+   margin-left: 490px;
+   text-align: center;
+}
+.eleme7{
+    color: rgb(204, 139, 139);
+    position: absolute;
+    margin-top: 270px;
+    width: 400px;
+    margin-left: 250px;
+    text-align: center;
+    font-size: 25px;
+}
+.acadmi77{
+    color: rgb(247, 247, 247);
+    position: absolute;
+    margin-top: 310px;
+    width: 400px;
+    margin-left: 270px;
+    text-align: center;
+    font-size: 20px;
+}
+.eleme71{
+    color: rgb(204, 139, 139);
+    position: absolute;
+    margin-top: 270px;
+    width: 440px;
+    margin-left: 400px;
+    text-align: center;
+    font-size: 25px;
+}
+.acadmi78{
+    color: rgb(247, 246, 246);
+    position: absolute;
+    margin-top: 310px;
+    width: 400px;
+    margin-left: 440px;
+    text-align: center;
+    font-size: 20px;
+}
+.Projects{
+    position: absolute;
+    margin-top: 230px;
+   margin-left: 960px;
+   text-align: center;
+}
+.acadmi79{
+    color: rgb(247, 246, 246);
+    position: absolute;
+    margin-top: 280px;
+    width: 400px;
+    margin-left: 820px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.footer {
+    margin-top: 300px;
+    width: 100%;
+    height: 570px;
+    background-color:#0c0c2c;
+}
+
+.line {
+    
+    margin-left: 455px;
+    width: 1px;
+    height: 200px;
+    background-color: black;
+}
+
+.line1 {
+    
+    margin-top: -200px;
+    margin-left: 910px;
+    width: 1px;
+    height: 200px;
+    background-color: black;
+}
+
+.colum {
+    
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.footer>P {
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: -140px;
+    color: black;
+}
+
+.footer>h5 {
+    position:absolute;
+    font-size: 23px;
+    margin-left: 550px;
+    margin-top: -88px;
+    color: black;
+}
+
+.footer>h6 {
+    font-size: 23px;
+    margin-left: 990px;
+    margin-top: -85px;
+    color: black;
+}
+.location{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 72px;
+   
+}
+.call{
+    position: absolute;
+    margin-left: 960px;
+    margin-top: 82px;
+}
+.emaill{
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 50px;   
+}
+
+#eleme {
+    color:#00FFFF;
+}
+
+.foot{
+    margin-top: 155px;
+    margin-left: 90px;
+    color: blue;
+}
+.logo1{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: -60px;
+    width: 110px;
+    height: 110px;
+}
+.foot p{
+    width: 290px;
+    color: white ;
+    margin-left: 150px;
+}
+.foot>h1{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -70px;
+}
+.foot1 h2{
+    margin-top: -230px;
+    color:#0000FF;
+    margin-left: 700px;
+}
+    .foot1>h3{
+        color: white;
+        margin-left: 700px;
+    }
+    .foot2>h1{
+           margin-top: -250px;
+    color: #0000FF;
+    margin-left: 900px;
+
+    }
+    .foot2>h3{
+        margin-left: 900px;
+        color: white;
+    }
